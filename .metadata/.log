@@ -272,3 +272,9 @@ java.lang.NullPointerException: Cannot invoke "java.io.File.getParentFile()" bec
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-15 21:37:28.738
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-15 21:37:57.128
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-15 21:37:57.138
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
